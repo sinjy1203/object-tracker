@@ -1,5 +1,6 @@
 # Detection & Tracking platform
 >무거운 짐을 로봇이 대신 들고 이동해줄 수 있도록 사용자를 따라가는 플랫폼 제작
+
 ![BIN000F bmp](https://user-images.githubusercontent.com/52316531/196070056-b08e5dfa-5f86-4a59-b494-cee89fd5c184.png)
 
 </br>
